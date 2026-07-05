@@ -1,0 +1,25 @@
+{
+  "name": "mongo-mini-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahabhilash/mongo-mini-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahabhilash/mongo-mini-chat/issues"
+  },
+  "homepage": "https://github.com/shahabhilash/mongo-mini-chat#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  }
+}
